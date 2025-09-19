@@ -1,4 +1,4 @@
-[![qqiiseven](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/qqiiseven)
+[![qqiiseven](https://img.shields.io/badge/qqiiseven-github-blue?logo=github)](https://github.com/qqiiseven)
 
 I'm currently pursuing a Bachelor's degree in Digital Media Technology at the International School of Information Science & Engineering, Dalian University of Technology.
 
