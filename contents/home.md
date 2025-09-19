@@ -9,4 +9,4 @@ I'm currently pursuing a Bachelor's degree in Digital Media Technology at the In
 **Dalian University of technology**, Master of Digital Media Technology (2022 – now)  
 
 #### Research Interests  
-Computer Vision, LLM.
+Computer vision, image enhancement, object detection.

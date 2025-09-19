@@ -1,3 +1,5 @@
-- 校级一等奖学金, 2022.  
-
-- Outstanding Graduation Thesis, XXX University, 2023. 
+- 🏅 National Scholarship, 2024
+- 🏅 Outstanding Student Award, 2024
+- Scholarship for outstanding academic performance, scholarship for social practice, and scholarship for scientific and technological innovation, 2024
+- 🏅 Outstanding Student Award, 2025
+- Scholarship for outstanding academic performance, scholarship for social practice, and scholarship for arts and sports activities, 2025
